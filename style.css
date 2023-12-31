@@ -90,8 +90,10 @@ body {
 .mynavbar .navbar-brand, 
 .mynavbar .offcanvas-tittle {
     font-family: 'Sacramento', cursive;
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .mynavbar .nav-link {
