@@ -58,14 +58,14 @@ body {
 
 .hero a{
     color: white;
-    background-color: var(--pink);
+    background-color: transparent;
+    border-color: #ffffff;
+    border-width: 3px;
 }
 
 .hero a:hover{
-    background-color: transparent;
     color: white;
-    border-color: #ffffff;
-    border-width: 3px;
+    background-color: var(--pink);
 }
 
 .mynavbar {
