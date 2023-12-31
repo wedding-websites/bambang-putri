@@ -472,20 +472,20 @@ footer li {
     }
 
     .simply-countdown > .simply-section {
-        width: 50px;
-        height: 50px;
-        padding: 50px;
+        width: 30px;
+        height: 30px;
+        padding: 30px;
         margin: 3px;
     }
 
     .timeline li .timeline-image {
         width: 70px;
         height: 70px;
-        margin-left: 3rem;
+        margin-left: 2.5rem;
     }
 
     .timeline li .timeline-panel {
-        width: 65%;
+        width: 55%;
         transform: translateX(-15px);
     }
 
