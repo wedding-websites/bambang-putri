@@ -505,9 +505,4 @@ footer li {
     .timeline li .timeline-panel::after {
         top: 31px;
     }
-
-    .offcanvas {
-        width: 100%;
-        z-index: 1000;
-    } 
 }
