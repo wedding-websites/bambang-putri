@@ -135,8 +135,8 @@ body {
     height: auto;
 }
 
-.home p{
-    font-size: 1.3rem;
+.home p {
+    font-size: 1.1rem;
     color: black;
     text-shadow: 2px 2px 2px rgb(255, 255, 255);
 }
@@ -190,7 +190,7 @@ body {
 }
 
 .info .card-body {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .info .card-footer {
@@ -472,16 +472,16 @@ footer li {
     }
 
     .simply-countdown > .simply-section {
-        width: 45px;
-        height: 45px;
-        padding: 45px;
+        width: 50px;
+        height: 50px;
+        padding: 50px;
         margin: 3px;
     }
 
     .timeline li .timeline-image {
         width: 70px;
         height: 70px;
-        margin-left: 4rem;
+        margin-left: 3rem;
     }
 
     .timeline li .timeline-panel {
