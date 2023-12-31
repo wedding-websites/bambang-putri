@@ -341,6 +341,7 @@ footer {
     padding: 4rem;
     background-color: var(--pink);
     color: white;
+    font-size: 1.5rem;
 }
 
 footer small, footer a {
