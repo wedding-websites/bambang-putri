@@ -167,11 +167,9 @@ body {
 }
 
 .info .alamat {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     margin-top: 3rem;
 }
-
-
 
 .info .description {
     font-size: 1rem;
@@ -188,10 +186,11 @@ body {
     border-bottom: 1px solid white;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
+    font-size: 1rem;
 }
 
 .info .card-body {
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 .info .card-footer {
