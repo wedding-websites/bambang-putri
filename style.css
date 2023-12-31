@@ -486,7 +486,7 @@ footer li {
     }
 
     .timeline li .timeline-panel {
-        width: 55%;
+        width: 60%;
         transform: translateX(-15px);
     }
 
@@ -500,6 +500,6 @@ footer li {
 
     .offcanvas {
         width: 100%;
-        z-index: 1000; /* Sesuaikan sesuai kebutuhan */
+        z-index: 1000;
     } 
 }
