@@ -6,9 +6,9 @@
 }
 
 .simply-countdown>.simply-section {
-    width: 15px;
-    height: 15px;
-    padding: 15px;
+    width: 5px;
+    height: 5px;
+    padding: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
