@@ -116,7 +116,7 @@ body {
 
 .home h3 {
     color: black;
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin-bottom: 1rem;
 }
 
@@ -136,7 +136,7 @@ body {
 }
 
 .home p{
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     color: black;
     text-shadow: 2px 2px 2px rgb(255, 255, 255);
 }
