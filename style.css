@@ -74,6 +74,7 @@ body {
 }
 
 .mynavbar .offcanvas {
+    width: 100%;
     height: 100vh;
     transition: transform 0.5s ease;
 }
