@@ -68,6 +68,12 @@ body {
     background-color: var(--pink);
 }
 
+/* Tambahkan gaya khusus untuk tombol "Lihat Undangan" */
+.btn-lg-custom {
+    padding: 10px 65px; 
+    font-size: 13px;   
+}
+
 .mynavbar {
     background-color: rgba(255, 255, 255, 0.5) !important;
     backdrop-filter: blur(6px);
