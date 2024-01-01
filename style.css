@@ -116,7 +116,7 @@ body {
 }
 
 /* CSS untuk mengatur elemen awalnya tidak terlihat */
-h2, h3, h5, p, span {
+h2, h5, span {
     opacity: 0;
     transform: translateY(20px);
     transition: opacity 0.5s ease, transform 1s ease;
