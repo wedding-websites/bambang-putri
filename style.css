@@ -115,6 +115,84 @@ body {
     text-transform: uppercase;
 }
 
+/* CSS untuk mengatur elemen awalnya tidak terlihat */
+h2, h3, h5, p, span {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 1s ease;
+}
+
+/* CSS untuk mengatur elemen muncul saat halaman digulir */
+h2.show, h3.show, h5.show, p.show, span.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* CSS untuk mengatur elemen awalnya tidak terlihat */
+h1, .tamu {
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 0.5s ease, transform 1s ease;
+}
+
+/* CSS untuk mengatur elemen muncul saat halaman digulir */
+h1.show, .tamu.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* CSS untuk mengatur elemen awalnya tidak terlihat */
+.groom, .to-left {
+    opacity: 0;
+    transform: translateX(20px);
+    transition: opacity 0.5s ease, transform 1s ease;
+}
+
+/* CSS untuk mengatur elemen muncul saat halaman digulir */
+.groom.show, .to-left.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* CSS untuk mengatur elemen awalnya tidak terlihat */
+.bride {
+    opacity: 0;
+    transform: translateX(-20px);
+    transition: opacity 0.5s ease, transform 1s ease;
+}
+
+/* CSS untuk mengatur elemen muncul saat halaman digulir */
+.bride.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* CSS untuk mengatur elemen awalnya tidak terlihat */
+.naruto {
+    opacity: 0;
+    transform: translateX(10px);
+    transition: opacity 0.5s ease, transform 1s ease;
+}
+
+/* CSS untuk mengatur elemen muncul saat halaman digulir */
+.naruto.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* CSS untuk mengatur elemen awalnya tidak terlihat */
+.hinata {
+    opacity: 0;
+    transform: translateX(-10px);
+    transition: opacity 0.5s ease, transform 1s ease;
+}
+
+/* CSS untuk mengatur elemen muncul saat halaman digulir */
+.hinata.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
 .home {
     background-size: cover;
     background-position: center;
