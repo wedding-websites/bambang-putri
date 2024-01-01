@@ -60,7 +60,7 @@ body {
   position: relative;
   display: inline-block;
   margin: 15px;
-  padding: 10px 15px;
+  padding: 10px 17px;
   text-align: center;
   font-size: 11px;
   letter-spacing: 1px;
@@ -69,7 +69,7 @@ body {
   background: transparent;
   cursor: pointer;
   transition: ease-out 0.5s;
-  border: 3px solid #ffffff;
+  border: 1.5px solid #ffffff;
   border-radius: 10px;
   box-shadow: inset 0 0 0 0 var();
 }
