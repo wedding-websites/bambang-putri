@@ -211,7 +211,7 @@ h1.show, .tamu.show {
 
 .home h3 {
     color: black;
-    font-size: 1rem;
+    font-size: 1.1rem;
     margin-bottom: 1rem;
 }
 
@@ -278,8 +278,8 @@ h1.show, .tamu.show {
     font-size: 1.2rem;
 }
 
-.info .body {
-    font-size: 2rem;
+.info .card-body {
+    font-size: 1.2rem;
 }
 
 .info .card-footer {
@@ -293,17 +293,21 @@ h1.show, .tamu.show {
     padding-bottom: 8rem;
 }
 
-.story span, .gallery span, .gifts span {
+.story h3 {
+    font-size: 1.2rem;
+}
+
+.story span, .gifts span {
     text-transform: uppercase;
     color: #666;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     letter-spacing: 1px;
     display: block;
     margin-bottom: 1rem;
 }
 
-.story p, .gallery p, .rsvp p, .gifts p {
-    font-size: 1rem;
+.story p, .rsvp p, .gifts p {
+    font-size: 1.1rem;
     font-weight: 300;
 }
 
