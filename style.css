@@ -280,7 +280,7 @@ h1.show, .tamu.show {
 }
 
 .info .card-body {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 .info .card-footer {
@@ -500,12 +500,12 @@ footer li {
 }
 
 .audio-icon-wrapper {
-    width: 3.7rem;
-    height: 3.7rem;
+    width: 3.9rem;
+    height: 3.9rem;
     font-size: 3.7rem;
     position: fixed;
     bottom: 2.5rem;
-    right: 2rem;
+    right: 1.9rem;
     cursor: pointer;
     color: white;
     opacity: 0.8;
