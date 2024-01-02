@@ -216,7 +216,7 @@ h1.show, .tamu.show {
 }
 
 .home .couple {
-    margin-top: 100px;
+    margin-top: 45px;
 }
 
 .home .couple h3 {
@@ -231,7 +231,7 @@ h1.show, .tamu.show {
 }
 
 .home p {
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: black;
     text-shadow: 2px 2px 2px rgb(255, 255, 255);
 }
