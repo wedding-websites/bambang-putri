@@ -226,7 +226,7 @@ h1.show, .tamu.show {
 }
 
 .home .couple img {
-    width: 115%;
+    width: 110%;
     height: auto;
     margin-bottom: 2.5rem;
 }
@@ -290,8 +290,8 @@ h1.show, .tamu.show {
 }
 
 .story, .gallery, .rsvp, .gifts {
-    padding-top: 10rem;
-    padding-bottom: 8rem;
+    padding-top: 8rem;
+    padding-bottom: 6rem;
 }
 
 .story h3 {
