@@ -440,7 +440,7 @@ h1.show, .tamu.show {
     border: 1px solid var(--pink);
     margin: 0 auto; /* Ini akan memposisikan kotak input di tengah */
     display: block; /* Untuk memastikan kotak input menjadi blok dan berada di tengah */
-    width: 80%;
+    width: 85%;
     height: 40px;
 }
 
@@ -457,7 +457,7 @@ h1.show, .tamu.show {
   border: 2px solid white;
   border-radius: 5px;
   /* box-shadow: 3px 3px 2px rgb(249, 255, 85); */
-  width: 80%; /* Ubah sesuai kebutuhan */
+  width: 85%; /* Ubah sesuai kebutuhan */
   height: 40px; /* Ubah sesuai kebutuhan */
   margin: 0 auto; /* Ini akan memposisikan kotak input di tengah */
   display: block; /* Untuk memastikan kotak input menjadi blok dan berada di tengah */
