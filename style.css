@@ -53,7 +53,7 @@ body {
 }
 
 .hero p{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 .hero a {
@@ -265,11 +265,6 @@ h1.show, .tamu.show {
     margin-top: 3rem;
 }
 
-.info .description {
-    font-size: 1rem;
-    font-weight: 300;
-}
-
 .info .card {
     background-color: rgba(255, 255, 255, 0.2) !important;
     color: white !important;
@@ -283,7 +278,7 @@ h1.show, .tamu.show {
     font-size: 1.2rem;
 }
 
-.info .card-body {
+.info .span {
     font-size: 1.2rem;
 }
 
@@ -470,6 +465,10 @@ h1.show, .tamu.show {
   box-shadow: -3px -3px 15px white;
   transition: .1s;
   transition-property: box-shadow;
+}
+
+.gifts .fw-bold {
+    font-size: 1.2rem;
 }
 
 footer {
