@@ -402,6 +402,22 @@ h1.show, .tamu.show {
     background-color: #ffd4e6;
 }
 
+/* Override Bootstrap carousel styles for slide effect */
+.carousel-slide .carousel-inner .carousel-item {
+  transform: translateX(100%);
+  transition: opacity ease-in-out, transform ease-in-out;
+  margin-top: 2rem;
+}
+
+.carousel-slide .carousel-inner .active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.carousel-slide .carousel-inner .carousel-item {
+  transition-duration: 0.7s;
+}
+
 .rsvp {
     background-color: var(--bg);
 }
