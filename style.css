@@ -119,7 +119,7 @@ body {
 h2, h3, h5, p, span {
     opacity: 0;
     transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 1s ease;
+    transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 /* CSS untuk mengatur elemen muncul saat halaman digulir */
@@ -132,7 +132,7 @@ h2.show, h3.show, h5.show, p.show, span.show {
 h1, .tamu {
     opacity: 0;
     transform: translateY(-20px);
-    transition: opacity 0.5s ease, transform 1s ease;
+    transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 /* CSS untuk mengatur elemen muncul saat halaman digulir */
@@ -145,7 +145,7 @@ h1.show, .tamu.show {
 .groom, .to-left {
     opacity: 0;
     transform: translateX(20px);
-    transition: opacity 0.5s ease, transform 1s ease;
+    transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 /* CSS untuk mengatur elemen muncul saat halaman digulir */
@@ -158,7 +158,7 @@ h1.show, .tamu.show {
 .bride {
     opacity: 0;
     transform: translateX(-20px);
-    transition: opacity 0.5s ease, transform 1s ease;
+    transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 /* CSS untuk mengatur elemen muncul saat halaman digulir */
@@ -171,7 +171,7 @@ h1.show, .tamu.show {
 .naruto {
     opacity: 0;
     transform: translateX(10px);
-    transition: opacity 0.5s ease, transform 1s ease;
+    transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 /* CSS untuk mengatur elemen muncul saat halaman digulir */
@@ -184,7 +184,7 @@ h1.show, .tamu.show {
 .hinata {
     opacity: 0;
     transform: translateX(-10px);
-    transition: opacity 0.5s ease, transform 1s ease;
+    transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 /* CSS untuk mengatur elemen muncul saat halaman digulir */
@@ -231,7 +231,7 @@ h1.show, .tamu.show {
 }
 
 .home p {
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     color: black;
     text-shadow: 2px 2px 2px rgb(255, 255, 255);
 }
