@@ -441,28 +441,6 @@ h1.show, .tamu.show {
     color: white;
 }
 
-.form-control {
-  background-color: #ffffff;
-  font-size: 1.2rem;
-  /* text-align: center; */
-  border: 2px solid white;
-  border-radius: 5px;
-  /* box-shadow: 3px 3px 2px rgb(249, 255, 85); */
-  width: 85%; /* Ubah sesuai kebutuhan */
-  height: 40px; /* Ubah sesuai kebutuhan */
-  margin: 0 auto; /* Ini akan memposisikan kotak input di tengah */
-  display: block; /* Untuk memastikan kotak input menjadi blok dan berada di tengah */
-}
-
-.form-control:focus  {
-  color: rgb(255, 255, 255);
-  background-color: #212121;
-  outline-color: rgb(255, 255, 255);
-  box-shadow: -3px -3px 15px white;
-  transition: .1s;
-  transition-property: box-shadow;
-}
-
 .rsvp button {
   position: relative;
   display: block; 
