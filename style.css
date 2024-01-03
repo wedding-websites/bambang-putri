@@ -472,6 +472,12 @@ h1.show, .tamu.show {
   transition-property: box-shadow;
 }
 
+.gifts .list-group-item {
+    border-color: rgb(0, 0, 0);
+    max-width: 35rem;
+    margin-left: 20px;
+}
+
 .gifts .fw-bold {
     font-size: 1.2rem;
 }
