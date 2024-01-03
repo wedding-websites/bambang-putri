@@ -403,17 +403,6 @@
       const song = document.querySelector('#song')
       let isPlaying = false;
 
-      function disableScroll() {
-        scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        scrollLeft = window.pageXOffset || document.documentElement.scrollLeft;
-
-        window.onscroll = function () {
-          window.scrollTo(scrollTop, scrollLeft);
-        }
-
-        rootElement.style.scrollBehavior = 'auto';
-      }
-
       function enableScroll() {
         window.onscroll = function () { }
         rootElement.style.scrollBehavior = 'smooth';
