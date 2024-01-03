@@ -291,7 +291,7 @@ h1.show, .tamu.show {
 
 .story, .gallery, .rsvp, .gifts {
     padding-top: 8rem;
-    padding-bottom: 6rem;
+    padding-bottom: 8rem;
 }
 
 .story h3 {
@@ -471,10 +471,6 @@ h1.show, .tamu.show {
   box-shadow: -3px -3px 15px white;
   transition: .1s;
   transition-property: box-shadow;
-}
-
-.gifts {
-    padding-bottom: 10rem;
 }
 
 .gifts .fw-bold {
