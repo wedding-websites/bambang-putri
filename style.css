@@ -262,7 +262,7 @@ h1.show, .tamu.show {
 }
 
 .info .alamat {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     margin-top: 3rem;
 }
 
@@ -276,16 +276,16 @@ h1.show, .tamu.show {
     border-bottom: 1px solid white;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 
 .info .card-body {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
 
 .info .card-footer {
     border-top: 1px solid white;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     font-weight: 300;
 }
 
@@ -472,8 +472,8 @@ h1.show, .tamu.show {
   transition-property: box-shadow;
 }
 
-.list-group-item {
-    border-color: rgb(0, 0, 0);
+.gifts {
+    padding-bottom: 10rem;
 }
 
 .gifts .fw-bold {
@@ -482,6 +482,10 @@ h1.show, .tamu.show {
 
 .gifts .people {
     font-size: 1.3rem;
+}
+
+.list-group-item {
+    border-color: rgb(0, 0, 0);
 }
 
 footer {
