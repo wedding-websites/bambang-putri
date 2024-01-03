@@ -266,10 +266,19 @@ h1.show, .tamu.show {
     margin-top: 3rem;
 }
 
-.info .card {
+.info .card-a {
     background-color: rgba(255, 255, 255, 0.2) !important;
     color: white !important;
     border: 1px solid white;
+    border-radius: 7px;
+    margin-top: 3.2rem;
+}
+
+.info .card-b {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    color: white !important;
+    border: 1px solid white;
+    border-radius: 7px;
 }
 
 .info .card-header {
