@@ -452,7 +452,8 @@ h1.show, .tamu.show {
 
 .form-control {
   background-color: #ffffff;
-  padding: 10px;
+  padding: 13px;
+  font-size: 1rem;
   /* text-align: center; */
   border: 2px solid white;
   border-radius: 5px;
