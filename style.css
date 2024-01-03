@@ -583,6 +583,26 @@ footer li {
         left: -13px;
         right: auto;
     }
+
+    .form-control {
+        background-color: #ffffff;
+        font-size: 1rem;
+        /* text-align: center; */
+        border: 2px solid white;
+        border-radius: 5px;
+        /* box-shadow: 3px 3px 2px rgb(249, 255, 85); */
+        width: 130%; /* Ubah sesuai kebutuhan */
+        height: 35px; /* Ubah sesuai kebutuhan */
+    }
+      
+      .form-control:focus  {
+        color: rgb(255, 255, 255);
+        background-color: #212121;
+        outline-color: rgb(255, 255, 255);
+        box-shadow: -3px -3px 15px white;
+        transition: .1s;
+        transition-property: box-shadow;
+    }
 }
 
 /* tablet media query */
