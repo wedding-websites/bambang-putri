@@ -60,7 +60,7 @@ body {
   position: relative;
   display: inline-block;
   margin: 15px;
-  padding: 10px 30px;
+  padding: 10px 29px;
   text-align: center;
   font-size: 10px;
   letter-spacing: 1px;
@@ -430,37 +430,10 @@ h1.show, .tamu.show {
     color: white;
 }
 
-.rsvp form label {
-    color: white;
-}
-
-.rsvp button {
-  position: relative;
-  display: block; 
-  margin: 0 auto; 
-  padding: 10px 30px;
-  text-align: center;
-  font-size: 10px;
-  letter-spacing: 1px;
-  text-decoration: none;
-  color: white;
-  background: transparent;
-  cursor: pointer;
-  transition: ease-out 0.5s;
-  border: 1.5px solid #ffffff;
-  border-radius: 10px;
-  box-shadow: inset 0 0 0 0 var();
-}
-
-.rsvp button:hover {
-  color: white;
-  box-shadow: inset 0 -100px 0 0 var(--pink);
-}
-
 .form-control {
   background-color: #ffffff;
   padding: 13px;
-  font-size: 1rem;
+  font-size: 1.2rem;
   /* text-align: center; */
   border: 2px solid white;
   border-radius: 5px;
@@ -478,6 +451,29 @@ h1.show, .tamu.show {
   box-shadow: -3px -3px 15px white;
   transition: .1s;
   transition-property: box-shadow;
+}
+
+.rsvp button {
+  position: relative;
+  display: block; 
+  margin: 0 auto; 
+  padding: 10px 29px;
+  text-align: center;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: white;
+  background: transparent;
+  cursor: pointer;
+  transition: ease-out 0.5s;
+  border: 1.5px solid #ffffff;
+  border-radius: 10px;
+  box-shadow: inset 0 0 0 0 var();
+}
+
+.rsvp button:hover {
+  color: white;
+  box-shadow: inset 0 -100px 0 0 var(--pink);
 }
 
 .gifts .fw-bold {
