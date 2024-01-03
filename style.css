@@ -474,12 +474,12 @@ h1.show, .tamu.show {
 
 .list-group-item {
     border-color: rgb(0, 0, 0);
-    max-width: 30rem;
-    margin-left: 15px;
+    max-width: 25rem;
+    margin-left: 20px;
 }
 
 .gifts .fw-bold {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 footer {
