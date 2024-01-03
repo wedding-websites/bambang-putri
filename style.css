@@ -500,15 +500,14 @@ footer li {
 }
 
 .audio-icon-wrapper {
-    width: 3.9rem;
-    height: 3.9rem;
+    width: 4rem;
+    height: 4rem;
     font-size: 3.7rem;
     position: fixed;
     bottom: 2.5rem;
-    right: 1.9rem;
+    right: 1.7rem;
     cursor: pointer;
     color: white;
-    opacity: 0.8;
     mix-blend-mode: difference;
     animation: rotating 4s linear infinite;
     transform-origin: center;
