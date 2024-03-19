@@ -1,5 +1,5 @@
 :root {
-    --pink: #f14e95;
+    --pink: #e900e9;
     --bg: #0a0a0a;
     --shadow: 0 2px 2px rgb(0 0 0 / 0.5);
 }
@@ -76,7 +76,7 @@ body {
 
 .hero a:hover, .map-button:hover {
   color: white;
-  box-shadow: inset 0 -100px 0 0 var(--pink);
+  box-shadow: inset 0 -100px 0 0 var(--purple);
 }
 
 .hero a:active {
@@ -84,7 +84,7 @@ body {
 }
 
 .mynavbar {
-    background-color: var(--pink) !important;
+    background-color: var(--purple) !important;
 }
 
 .mynavbar .offcanvas {
@@ -203,7 +203,7 @@ h1.show, .tamu.show {
 }
 
 .home h2, .info h2, .story h2, .gallery h2, .rsvp h2, .gifts h2 {
-    color: var(--pink);
+    color: var(--purple);
     font-family: 'Sacramento';
     font-size: 5rem;
     font-weight: bold;
@@ -222,7 +222,7 @@ h1.show, .tamu.show {
 .home .couple h3 {
     font-family: 'Sacramento';
     font-size: 2.5rem;
-    color: var(--pink);
+    color: var(--purple);
 }
 
 .home .couple img {
@@ -251,7 +251,7 @@ h1.show, .tamu.show {
 
 .home .heart i {
     margin: auto;
-    color: var(--pink);
+    color: red;
 }
 
 .info {
@@ -461,7 +461,7 @@ h1.show, .tamu.show {
 
 .rsvp button:hover {
   color: white;
-  box-shadow: inset 0 -100px 0 0 var(--pink);
+  box-shadow: inset 0 -100px 0 0 var(--purple);
 }
 
 .gifts .fw-bold {
@@ -478,7 +478,7 @@ h1.show, .tamu.show {
 
 footer {
     padding: 4rem;
-    background-color: var(--pink);
+    background-color: var(--purple);
     color: white;
     font-size: 1.5rem;
 }
