@@ -547,6 +547,20 @@ footer li {
         margin: 10px;
     }
 
+    .hero::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(flower2.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        z-index: -1;
+    }
+
     .mynavbar .nav-link {
         font-size: 2rem;
         text-align: center;
