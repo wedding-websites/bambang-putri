@@ -54,7 +54,7 @@ body {
 }
 
 .hero p{
-    font-size: 1.3rem;
+    font-size: 1.6rem;
 }
 
 .hero a, .map-button {
@@ -153,6 +153,7 @@ h1.show, .tamu.show {
 .groom.show, .to-left.show {
     opacity: 1;
     transform: translateX(0);
+    font-size: 1.6rem;
 }
 
 /* CSS untuk mengatur elemen awalnya tidak terlihat */
@@ -166,6 +167,7 @@ h1.show, .tamu.show {
 .bride.show {
     opacity: 1;
     transform: translateX(0);
+    font-size: 1.6rem;
 }
 
 /* CSS untuk mengatur elemen awalnya tidak terlihat */
