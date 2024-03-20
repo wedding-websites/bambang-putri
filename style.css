@@ -304,6 +304,10 @@ h1.show, .tamu.show {
     padding-bottom: 10rem;
 }
 
+.story {
+    padding-bottom: 0.5rem;
+}
+
 .story h3 {
     font-size: 1.5rem;
 }
