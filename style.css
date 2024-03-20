@@ -1,5 +1,5 @@
 :root {
-    --purple: #e900e9;
+    --pink: #ff00d4;
     --bg: #0a0a0a;
     --shadow: 0 2px 2px rgb(0 0 0 / 0.5);
 }
@@ -84,7 +84,7 @@ body {
 }
 
 .mynavbar {
-    background-color: var(--purple) !important;
+    background-color: var(--pink) !important;
 }
 
 .mynavbar .offcanvas {
@@ -410,7 +410,7 @@ h1.show, .tamu.show {
 }
 
 .gallery {
-    background-color: #ffd4e6;
+    background-color: white;
 }
 
 /* Override Bootstrap carousel styles for slide effect */
