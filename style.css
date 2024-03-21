@@ -259,7 +259,7 @@ h1.show, .tamu.show {
 .info {
     background-color: var(--bg);
     color: white;
-    padding-top: 9rem;
+    padding-top: 1rem;
     padding-bottom: 9rem;
 }
 
