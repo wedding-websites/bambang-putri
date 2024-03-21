@@ -201,7 +201,7 @@ h1.show, .tamu.show {
     background-position: center;
     min-height: 100vh;
     padding-top: 9rem;
-    padding-bottom: 1rem;
+    padding-bottom: -9rem;
 }
 
 .home h2, .info h2, .story h2, .gallery h2, .rsvp h2, .gifts h2 {
