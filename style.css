@@ -199,7 +199,7 @@ h1.show, .tamu.show {
 .home {
     background-size: cover;
     background-position: center;
-    min-height: 80vh;
+    min-height: 95vh;
     padding-top: 9rem;
     padding-bottom: 9rem;
 }
