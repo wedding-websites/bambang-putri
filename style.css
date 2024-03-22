@@ -312,7 +312,7 @@ h1.show, .tamu.show {
 }
 
 .story h3 {
-    font-size: 1.5rem;
+    font-size: 3rem;
 }
 
 .story span, .gifts span {
@@ -325,7 +325,7 @@ h1.show, .tamu.show {
 }
 
 .story p, .rsvp p, .gifts p {
-    font-size: 3rem;
+    font-size: 1.3rem;
     font-weight: 300;
 }
 
