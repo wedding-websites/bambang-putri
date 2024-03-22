@@ -312,20 +312,20 @@ h1.show, .tamu.show {
 }
 
 .story h3 {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
 }
 
 .story span, .gifts span {
     text-transform: uppercase;
     color: #666;
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     letter-spacing: 1px;
     display: block;
     margin-bottom: 1rem;
 }
 
 .story p, .rsvp p, .gifts p {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     font-weight: 300;
 }
 
